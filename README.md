@@ -82,7 +82,36 @@ pipeline {
 - ✅ Déploiement Docker Compose
 - ✅ Tests automatisés
 
-## 👨‍💻 Auteur
+## � Captures d'écran
+
+### Jenkins Dashboard
+![Jenkins](image.png)
+
+### Pipeline Stages
+![Stages](image-1.png)
+
+### Build Parallel
+![Parallel Build](image-2.png)
+
+### Docker Build
+![Docker](image-3.png)
+
+### Test Results
+![Tests](image-4.png)
+
+### Deployment Status
+![Deploy](image-5.png)
+
+### Console Output
+![Console](image-6.png)
+
+### Blue Ocean View
+![Blue Ocean](image-7.png)
+
+### All Services Running
+![Services](image-8.png)
+
+## �👨‍💻 Auteur
 
 **Ilyas MICHICH**
 
